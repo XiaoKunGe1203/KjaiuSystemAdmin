@@ -1,5 +1,5 @@
 
-Mozilla Public License Chinese Reference Version 2.0 
+Mozilla Public License Version 2.0 
 ==================================
 
 Copyright (c) 2023 XJHya
